@@ -1,0 +1,30 @@
+body{
+	padding: 30px;
+}
+
+.logo img{
+	height: 30px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.divsec{
+	margin-top: 30px;
+	display: inline-block;
+	
+}
+.navb{
+	display: inline-block;
+}
+.nav-li{
+	display: inline-block;
+	padding-left: 30px;
+	font-size: 22px;
+}
+span{
+	color: red;
+}
+
+.sect{
+	background-color: #808080;
+}
