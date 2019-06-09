@@ -7,12 +7,27 @@ body{
 	display: inline-block;
 	vertical-align: middle;
 }
-
+.foot1{
+	margin-top: 30px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
 .divsec{
 	margin-top: 30px;
 	display: inline-block;
-	
+	margin-right: 50px;
+	vertical-align: top;
+
 }
+.h3{
+	font-size: 20px;
+	color: #3d58a6;
+}
+.h6{
+	font-size: 16px;
+	color: #808080;
+}
+
 .navb{
 	display: inline-block;
 }
@@ -25,6 +40,7 @@ span{
 	color: red;
 }
 
-.sect{
-	background-color: #808080;
+.secti{
+	margin-top: 30px;
+	background-color: #e6e6e6;
 }
